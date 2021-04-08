@@ -1,6 +1,6 @@
 <p align="center" width="300">
 <img
-    src="https://firebasestorage.googleapis.com/v0/b/poncegl.appspot.com/o/brand%2FProfile.jpg?alt=media&token=2c5d9e70-b2f2-4aba-b4d8-e00b80c2ae80"
+    src="https://firebasestorage.googleapis.com/v0/b/poncegl.appspot.com/o/brand%2FProfile.jpeg?alt=media&token=6bbf8ff9-56a4-4a19-ada7-ce4989efed5b"
     alt="Fotografia de PonceGL"
     align="center" width="150"
     />
