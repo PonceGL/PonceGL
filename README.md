@@ -21,9 +21,3 @@ I develop applications with **React Native**. My specialty is **Front-End**, but
 
 ---
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PonceGL&repo=Gallery-justified-vanilla-JavaScript&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gallery justified vanilla JavaScript" />
-</a>
-
