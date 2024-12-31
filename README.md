@@ -10,7 +10,14 @@ I develop applications with **React Native**. My specialty is **Front-End**, but
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=PonceGL&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PonceGL&theme=tokyonight&hide_border=false)
+
+### Cuanta profesional con Digital@Femsa 2024
+![Cuenta profesional con Femsa](https://github.com/user-attachments/assets/f7a6f059-a152-4753-9382-d8eaba7d4dd0)
+
+### Cuanta profesional con Digital@Femsa 2023
+![Cuenta profesional con Femsa](https://github.com/user-attachments/assets/69de923a-6cda-444e-8fec-2b880fa13dbf)
+
 
 
 ### ✍️ Random Dev Quote
